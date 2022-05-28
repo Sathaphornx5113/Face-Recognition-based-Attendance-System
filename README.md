@@ -1,1 +1,1 @@
-# Face-Recognition-based-Attendance-System-using-Edge-AI
+# Face-Recognition-based-Attendance-System
