@@ -1,0 +1,11 @@
+numpy
+opencv-contrib-python
+Pillow
+tensorflow
+pandas
+google-api-python-client
+gspread-dataframe
+pprintpp
+oauth2client
+gspread
+tk
